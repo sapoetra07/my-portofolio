@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#education {
+    background-color: #e2edff;
+}
+
+#img-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#projects {
+    background-color: #ffff;
+}
+
+#contact {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
